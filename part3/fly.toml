@@ -10,6 +10,7 @@ primary_region = 'dfw'
 
 [env]
   PORT = "3000"
+  MONGODB_URI = "mongodb+srv://myuser:mypassword@cluster0.2nkme4u.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 [http_service]
   internal_port = 3000
