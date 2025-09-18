@@ -2,3 +2,5 @@
 part3/.env
 .DS_Store
 part3/.DS_Store
+/part4/node_modules
+part4/.env
